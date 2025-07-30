@@ -1,0 +1,16 @@
+event_name,event_type,start_date,description
+Black Monday Crash,Economic,10/19/1987,Global stock market crash that contributed to economic uncertainty and impacted oil demand.
+Gulf War Begins,Geopolitical,8/2/1990,Iraq invades Kuwait causing oil prices to spike due to supply concerns.
+Asian Financial Crisis,Economic,7/2/1997,Collapse of Asian markets led to reduced oil demand and falling prices.
+9/11 Attacks,Geopolitical,9/11/2001,"Terror attacks in the US increased market volatility and geopolitical risk, briefly affecting oil prices."
+Iraq War,Geopolitical,3/20/2003,US-led invasion of Iraq caused market instability and supply concerns.
+Hurricane Katrina,Disaster,8/29/2005,Major hurricane disrupted US Gulf Coast oil production and refining capacity.
+Global Financial Crisis,Economic,9/15/2008,Collapse of Lehman Brothers marked deep financial crisis and sharp decline in oil demand.
+Arab Spring,Geopolitical,1/25/2011,Middle East unrest disrupted oil-producing nations and created supply uncertainty.
+OPEC Refuses to Cut Production,Policy,11/27/2014,"OPEC decided not to cut production despite oversupply, leading to oil price collapse."
+Iran Sanctions Lifted,Policy,1/16/2016,"Lifting of sanctions allowed Iran to return to global oil markets, increasing supply."
+OPEC+ Production Cut Agreement,Policy,11/30/2016,"OPEC and allies agreed to cut oil output, causing a price rebound."
+COVID-19 Pandemic,Health/Economic,3/11/2020,Global lockdowns caused unprecedented demand crash and volatility in oil prices.
+Oil Prices Go Negative,Economic,4/20/2020,US WTI oil price futures dropped below zero due to storage overflow; Brent remained low.
+Russia-Ukraine War Begins,Geopolitical,2/24/2022,Invasion of Ukraine by Russia triggered global energy crisis and price surges.
+G7 Price Cap on Russian Oil,Policy,9/1/2022,"G7 imposed price cap on Russian oil exports, influencing global oil trade and prices."
