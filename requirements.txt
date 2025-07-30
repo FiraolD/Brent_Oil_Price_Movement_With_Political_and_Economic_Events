@@ -1,0 +1,6 @@
+pymc3 
+arviz 
+pandas 
+matplotlib 
+flask 
+react
