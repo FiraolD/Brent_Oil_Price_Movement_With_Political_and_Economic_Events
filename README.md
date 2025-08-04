@@ -85,4 +85,8 @@ Firaol Delesa
 Data Scientist | 10 Academy: Artificial Intelligence Mastery  
 Email: [firaoldelesa18@gmail.com]  
 LinkedIn: [linkedin.com/in/firaoldelesa] 
+<<<<<<< HEAD
 GitHub: [FiraolD](https://github.com/FiraolD)
+=======
+GitHub: [FiraolD](https://github.com/FiraolD)
+>>>>>>> 90a88f7feb277f4d1398211bc2ad6d69b649397d
